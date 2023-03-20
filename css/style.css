@@ -1,0 +1,52 @@
+.header {
+    background-color: #f8A4D8;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #FFFFFF;
+    text-align: right;
+}
+
+body {
+    background-color: #DADFEA;
+}
+
+    .about-me {
+        background-color: #6C63FF;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color:#FFFFFF;
+        padding: 20px;  
+    }
+
+
+    .portfolio-work {
+        background-color:gray;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color:#100f0f;
+        padding: 20px;
+        display:flex;
+      
+    }
+
+   ul a:hover img{
+    transform: scale(1.2);
+   }
+
+    img {
+        width: 200px;
+        height: 200px;
+    
+    }
+
+  
+
+    .avatar {
+        width: 300px;
+        height: 300px;
+    }
+
+    .contact-info {
+        background-color: #6C63FF;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color:#FFFFFF;
+        padding: 20px;
+    
+    }
